@@ -11,10 +11,6 @@
 
 
 
-
-
-
-
 #define  N  128
 
 #define err_log(errlog) \
