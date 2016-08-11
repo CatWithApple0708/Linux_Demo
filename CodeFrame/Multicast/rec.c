@@ -9,6 +9,12 @@
 #include <string.h>
 #include <unistd.h>
 
+
+
+
+
+
+
 #define  N  128
 
 #define err_log(errlog) \
